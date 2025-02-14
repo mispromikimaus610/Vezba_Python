@@ -1,0 +1,4 @@
+Just writting some testing text
+Pisem tekst za testiranje
+Ljubavi svakoj dodje kraj,
+Zbogom ljubaviI added this text with f.write() method
